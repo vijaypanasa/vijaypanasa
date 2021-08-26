@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vijaypanasa
+- 👋 Hello, I’m Vijay 😄.
 - 👀 I’m interested in Hardware verification(HDL languages), UVM, Python and Java Script
 - 🌱 I’m currently learning python3 and JS
 - 💞️ I’m looking to collaborate on ...
